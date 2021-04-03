@@ -1,6 +1,6 @@
 
 <!-- Name of the project  -->
-Random Quote Generator.
+[Random Quote Generator](https://charleskyalo.github.io/quote-generator/).
 <!-- why of the project -->
 Practice Javascript Project.
 ## Assets used.
